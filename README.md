@@ -28,13 +28,13 @@
 <div>
   <ul>
     <li>
-      <a href="https://react-entrega-s2-kenzie-hub-luan-ferreir4.vercel.app/">Login e registro em API<a/>
+      <a href="https://react-entrega-s2-kenzie-hub-luan-ferreir4.vercel.app/" target="_blank">Login e registro em API<a/>
     </li>
     <li>
-      <a href="https://react-entrega-s3-kenzieshop-luan-ferreir4.vercel.app/">Loja de camisetas<a/>
+      <a href="https://react-entrega-s3-kenzieshop-luan-ferreir4.vercel.app/" target="_blank">Loja de camisetas<a/>
     </li>
     <li>
-      <a href="https://kenzie-academy-brasil-developers.github.io/entrega-construa-um-jogo-de-azar-sprint-3-luan-ferreir4/">Jokenpô<a/>
+      <a href="https://kenzie-academy-brasil-developers.github.io/entrega-construa-um-jogo-de-azar-sprint-3-luan-ferreir4/" target="_blank">Jokenpô<a/>
     </li>
   </ul>
 </div>
