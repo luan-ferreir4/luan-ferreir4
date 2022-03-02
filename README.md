@@ -33,5 +33,8 @@
     <li>
       <a href="https://react-entrega-s3-kenzieshop-luan-ferreir4.vercel.app/">Loja de camisetas<a/>
     </li>
+    <li>
+      <a href="https://kenzie-academy-brasil-developers.github.io/entrega-construa-um-jogo-de-azar-sprint-3-luan-ferreir4/">Jokenpô<a/>
+    </li>
   </ul>
 </div>
