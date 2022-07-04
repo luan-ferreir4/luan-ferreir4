@@ -11,9 +11,6 @@
 </div>
   
 <br/>
-<br/>
-<br/>
-<br/>
  
 ##  <img height="25px" src="https://www.pinclipart.com/picdir/big/450-4505155_death-star-pixel-art-lego-star-wars-clipart.png"/>&nbsp;Skills:
 
