@@ -5,8 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-ferreir4&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<br/>
-  
 <div align="center">
   <img align="left" height="65px" src="https://i.pinimg.com/originals/c1/89/6d/c1896d52d536bbdcfef43dcb5737f232.gif"/> 
   <img align="right" height="65px" src="https://i.pinimg.com/originals/c1/89/6d/c1896d52d536bbdcfef43dcb5737f232.gif"/> 
