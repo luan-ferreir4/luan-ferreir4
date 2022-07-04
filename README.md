@@ -1,4 +1,4 @@
-## <img align="center" height="25px" src="https://lh3.googleusercontent.com/q17spPw1ke8Jy89MJjLk7fq49uiiSoEvEfAtCzmd2ZqPz8kqznPtiR-U4a0yMjQAmIO9rfTzn03PVvBX2iHNaGP_9pNAhR-LmS8k=s400"/> &nbsp; Hello there!
+## <img align="center" height="25px" src="https://lh3.googleusercontent.com/q17spPw1ke8Jy89MJjLk7fq49uiiSoEvEfAtCzmd2ZqPz8kqznPtiR-U4a0yMjQAmIO9rfTzn03PVvBX2iHNaGP_9pNAhR-LmS8k=s400"/> Hello there!
 <div align="center">
   <a href="https://github.com/luan-ferreir4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luan-ferreir4&theme=dark&include_all_commits=true&count_private=true"/>
