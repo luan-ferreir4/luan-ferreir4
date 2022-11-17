@@ -5,11 +5,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-ferreir4&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div align="center">
+<!-- <div align="center">
   <img align="left" height="65px" src="https://i.pinimg.com/originals/c1/89/6d/c1896d52d536bbdcfef43dcb5737f232.gif"/> 
   <img align="right" height="65px" src="https://i.pinimg.com/originals/c1/89/6d/c1896d52d536bbdcfef43dcb5737f232.gif"/> 
 </div>
-  
+   -->
 <br/>
  
 ##  <img height="25px" src="https://www.pinclipart.com/picdir/big/450-4505155_death-star-pixel-art-lego-star-wars-clipart.png"/>&nbsp;Skills:
