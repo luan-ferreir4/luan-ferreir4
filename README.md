@@ -1,4 +1,4 @@
-##<!-- <img align="center" height="25px" src="https://lh3.googleusercontent.com/q17spPw1ke8Jy89MJjLk7fq49uiiSoEvEfAtCzmd2ZqPz8kqznPtiR-U4a0yMjQAmIO9rfTzn03PVvBX2iHNaGP_9pNAhR-LmS8k=s400"/>--> Hello there!
+<!-- <img align="center" height="25px" src="https://lh3.googleusercontent.com/q17spPw1ke8Jy89MJjLk7fq49uiiSoEvEfAtCzmd2ZqPz8kqznPtiR-U4a0yMjQAmIO9rfTzn03PVvBX2iHNaGP_9pNAhR-LmS8k=s400"/>--> Hello there!
 <div align="center">
   <a href="https://github.com/luan-ferreir4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luan-ferreir4&theme=dark&include_all_commits=true&count_private=true"/>
@@ -9,7 +9,7 @@
   <img align="left" height="65px" src="https://i.pinimg.com/originals/c1/89/6d/c1896d52d536bbdcfef43dcb5737f232.gif"/> 
   <img align="right" height="65px" src="https://i.pinimg.com/originals/c1/89/6d/c1896d52d536bbdcfef43dcb5737f232.gif"/> 
 </div>
-  <!--
+  -->
 <br/>
  
 ##  <img height="25px" src="https://www.pinclipart.com/picdir/big/450-4505155_death-star-pixel-art-lego-star-wars-clipart.png"/>&nbsp;Skills:
